@@ -95,11 +95,6 @@ Deep Learning (CNN), Image Processing, Model Evaluation, RAG, LLMs
 
 ---
 
-## 📈 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Tanveer2308&show_icons=true)
-
----
-
 ## 📫 Connect with Me
 - LinkedIn: https://www.linkedin.com/in/bhatia-tanveer/  
 - Email: bhatiatanveer23@gmail.com  
