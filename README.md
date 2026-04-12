@@ -1,12 +1,16 @@
 # Hi 👋, I'm Tanveer
 
-🚀 Full Stack Engineer | .NET | Azure | AI/LLM Systems | Distributed Systems  
+Full Stack Engineer | .NET | Azure | AI/LLM Systems | Distributed Systems  
+
+---
+
+## 🎓 Education
+- MSc Computer Science – University of Alberta (Specialization: AI, ML, Deep Learning)  
 
 ---
 
 ## 🔥 About Me
 - 💼 Software Developer @ CGI (Canada)  
-- 🎓 MSc Computer Science – University of Alberta (AI/ML Specialization)  
 - ☁️ Building cloud-native systems using **.NET, Azure & Microservices**  
 - 🤖 Passionate about **AI, LLMs, RAG pipelines & Agentic Systems**  
 
@@ -77,15 +81,15 @@ Deep Learning (CNN), Image Processing, Model Evaluation, RAG, LLMs
 
 ## 📊 Key Projects
 
-### 🔹 Flood Detection & Impact Analysis
+### Flood Detection & Impact Analysis
 - Built deep learning models using **UNet + VAE + GMM**
 - Performed **segmentation, classification, and severity analysis**
 
-### 🔹 Financial Market Prediction
+### Financial Market Prediction
 - Developed **CNN-based model** using candlestick chart images
 - Achieved predictive insights using **image-based financial data**
 
-### 🔹 D365 Integration System
+### D365 Integration System
 - Designed **end-to-end integration pipelines** between MIS and D365
 - Used **Azure Functions, Service Bus, and HTTP APIs**
 
@@ -102,4 +106,4 @@ Deep Learning (CNN), Image Processing, Model Evaluation, RAG, LLMs
 
 ---
 
- From [Tanveer](https://github.com/Tanveer2308)
+From [Tanveer](https://github.com/Tanveer2308)
