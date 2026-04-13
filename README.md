@@ -10,9 +10,9 @@ Full Stack Engineer | .NET | Azure | AI/LLM Systems | Distributed Systems
 ---
 
 ## 🔥 About Me
-- 💼 Software Developer @ CGI (Canada)  
-- ☁️ Building cloud-native systems using **.NET, Azure & Microservices**  
-- 🤖 Passionate about **AI, LLMs, RAG pipelines & Agentic Systems**  
+- Software Developer @ CGI (Canada)  
+- Building cloud-native systems using **.NET, Azure & Microservices**  
+- Passionate about **AI, LLMs, RAG pipelines & Agentic Systems**  
 
 ---
 
